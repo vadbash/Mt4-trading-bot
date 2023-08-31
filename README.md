@@ -1,7 +1,7 @@
 **MetaTrader4 trading bot**
 
 How to use:
- 1. Clone repo:
+ 1. Clone repository:
 
        **HTTPS:** `https://github.com/vadbash/Mt4-trading-bot.git`
 
